@@ -1,0 +1,9 @@
+baseURL = "https://www.example.co.uk/"
+languageCode = "en-gb"
+title = "test"
+publishDir = "public"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = true
+
+disableHugoGeneratorInject = true
